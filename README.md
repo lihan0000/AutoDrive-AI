@@ -1,6 +1,6 @@
 # AutoDrive-AI: Full-Stack Architecture for Autonomous Driving Edge Perception & Control System
 
-[![Status](https://img.shields.io/badge/Status-Stable-success)](#) [![Tech](https://img.shields.io/badge/Tech_Stack-C%2B%2B%20%7C%20CUDA%20%7C%20ROS2%20%7C%20Python-blue)](#) [![Hardware](https://img.shields.io/badge/Hardware-Orin_Nano%20%7C%20K230%20%7C%20RDKX5-orange)](#) 
+[![Status](https://img.shields.io/badge/Status-Stable-success)](#) [![Tech](https://img.shields.io/badge/Tech_Stack-C%2B%2B%20%7C%20CUDA%20%7C%20ROS2%20%7C%20PYTHON-blue)](#) [![Hardware](https://img.shields.io/badge/Hardware-Orin_Nano%20%7C%20K230%20%7C%20RDKX5-orange)](#) 
 
 > 📥 **CORE RESOURCES QUICK ACCESS**:
 > * 📄 **TECHNICAL WHITEPAPER (WORD)**: `./README.docx`
