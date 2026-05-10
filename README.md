@@ -1,4 +1,4 @@
-# AutoDrive-AI:自动驾驶边缘感知与控制系统全栈架构
+# AutoDrive-AI:
 
 [![Status](https://img.shields.io/badge/状态-稳定运行-success)](#) [![Tech](https://img.shields.io/badge/核心技术-C%2B%2B%20%7C%20CUDA%20%7C%20ROS2%20%7C%20PYTHON-blue)](#) [![Hardware](https://img.shields.io/badge/硬件平台-Orin_Nano%20%7C%20K230%20%7C%20RDKX5-orange)](#) 
 
@@ -10,30 +10,29 @@
 
 ## 📖 技术架构详述
 
-
 <div align="center">
-  <img src="./PNG/E1.png" width="100%" alt="第1页">
-  <img src="./PNG/E2.png" width="100%" alt="第2页">
-  <img src="./PNG/E3.png" width="100%" alt="第3页">
-  <img src="./PNG/E4.png" width="100%" alt="第4页">
-  <img src="./PNG/E5.png" width="100%" alt="第5页">
+  <img src="./PNG/E1.png" width="100%" alt="一">
+  <img src="./PNG/E2.png" width="100%" alt="二">
+  <img src="./PNG/E3.png" width="100%" alt="三">
+  <img src="./PNG/E4.png" width="100%" alt="四">
+  <img src="./PNG/E5.png" width="100%" alt="五">
 </div>
 
 ---
 
-<h2 id="附录项目资源与源码直达索引">🔗 附录：项目资源与源码直达索引</h2>
+<h2 id="附录项目资源与源码直达索引">🔗 APPENDIX: PROJECT RESOURCES & SOURCE CODE INDEX</h2>
 
-*(点击下方链接，可直接跳转至对应目录查阅源码或下载实机测试视频)*
+*(CLICK THE LINKS BELOW TO DIRECTLY JUMP TO THE CORRESPONDING DIRECTORY FOR SOURCE CODE OR TEST VIDEOS)*
 
-| 模块编号 | 核心技术模块名称 | 源码与实况资源直达 (GitHub 目录跳转) |
+| MOD | CORE TECHNOLOGY & MODULE NAME | GITHUB DIRECTORY & RESOURCE LINK |
 | :---: | :--- | :--- |
-| **01** | **Ros2  端侧部署与视觉跟踪** | [👉 点击进入 TEST_LEARNING 目录](./TEST_LEARNING) |
-| **02** | **K230  边缘端视觉场景落地** | [👉 点击进入 Visual_K230_Drive 目录](./Visual_K230_Drive) |
-| **03** | **UAV   场景识别与算法进阶** | [👉 点击进入 UAV_Action_Prediction_Trial 目录](./UAV_Action_Prediction_Trial) |
-| **04** | **RTK   高精度定位配置** | [👉 点击进入 UM982_RTK 目录](./UM982_RTK) |
-| **05** | **RDKX5 深度相机与 IMU 控制** | [👉 点击进入 RDKX5_IMU_DEPTH_Camera 目录](./RDKX5_IMU_DEPTH_Camera) |
-| **06** | **PX6C CAN 协议底层控制** | [👉 点击进入 PX6C_Lua_Control 目录](./Orin_Nano_PX6C/PX6C_Lua_Control) |
-| **07** | **深度相机与底盘感知控制协同** | [👉 点击进入 Visual_Soild_D 核心目录](./Orin_Nano_DEPTH_Camera_Distance/Visual_Soild_D/Visual_Soild_D) |
-| **08** | **双目仿生高速避障与紧急刹停** | [👉 点击进入 Obstacle_Avoidance_Detour 目录](./Orin_Nano_PX6C/Obstacle_Avoidance_Detour_TEST) |
+| **01** | **ROS2 EDGE DEPLOYMENT & VISION TRACKING** | [👉 GO TO TEST_LEARNING DIR](./TEST_LEARNING) |
+| **02** | **K230 EDGE VISION & SCENE APPLICATION** | [👉 GO TO VISUAL_K230_DRIVE DIR](./Visual_K230_Drive) |
+| **03** | **UAV SCENE RECOGNITION & ALGORITHM ADVANCE** | [👉 GO TO UAV_ACTION_PREDICTION DIR](./UAV_Action_Prediction_Trial) |
+| **04** | **RTK HIGH-PRECISION POSITIONING CONFIG** | [👉 GO TO UM982_RTK DIR](./UM982_RTK) |
+| **05** | **RDKX5 DEPTH CAMERA & IMU CONTROL SYSTEM** | [👉 GO TO RDKX5_IMU_DEPTH_CAMERA DIR](./RDKX5_IMU_DEPTH_Camera) |
+| **06** | **PX6C CAN PROTOCOL LOW-LEVEL CONTROL** | [👉 GO TO PX6C_LUA_CONTROL DIR](./Orin_Nano_PX6C/PX6C_Lua_Control) |
+| **07** | **DEPTH CAMERA & CHASSIS PERCEPTION SYNC** | [👉 GO TO VISUAL_SOILD_D CORE DIR](./Orin_Nano_DEPTH_Camera_Distance/Visual_Soild_D/Visual_Soild_D) |
+| **08** | **BINOCULAR HIGH-SPEED OBSTACLE AVOIDANCE** | [👉 GO TO OBSTACLE_AVOIDANCE_DETOUR DIR](./Orin_Nano_PX6C/Obstacle_Avoidance_Detour_TEST) |
 
 ---
