@@ -10,6 +10,8 @@
 
 ## 📖 TECHNICAL ARCHITECTURE DETAILS (PREVIEW)
 
+### ⚠️ **NOTICE: IF IMAGES ARE NOT FULLY DISPLAYED OR LOADING SLOWLY, PLEASE DOWNLOAD AND VIEW THE WORD DOCUMENT DIRECTLY FOR THE BEST EXPERIENCE.**
+
 <div align="center">
   <img src="./PNG/E1.png" width="100%" alt="Page 1">
   <img src="./PNG/E2.png" width="100%" alt="Page 2">
