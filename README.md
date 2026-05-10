@@ -3,8 +3,8 @@
 [![Status](https://img.shields.io/badge/状态-稳定运行-success)](#) [![Tech](https://img.shields.io/badge/核心技术-C%2B%2B%20%7C%20CUDA%20%7C%20ROS2%20%7C%20PYTHON-blue)](#) [![Hardware](https://img.shields.io/badge/硬件平台-Orin_Nano%20%7C%20K230%20%7C%20RDKX5-orange)](#) 
 
 > 📥 **核心资源入口**：
-> * [📄 点击跳转查阅：本项目技术文档原件 (Word版)](./)
-> * [🔗 跳转：底部的源码视频下载索引区](#附录项目资源与源码直达索引)
+> * [📄 点击跳转：本项目技术文档原件 (Word版)](./README.docx)
+> * [🔗 跳转：源码视频下载索引区](#附录项目资源与源码直达索引)
 
 ---
 
@@ -27,7 +27,7 @@
 
 | 模块编号 | 核心技术模块名称 | 源码与实况资源直达 (GitHub 目录跳转) |
 | :---: | :--- | :--- |
-| **01** | **ROS2  端侧部署与视觉跟踪** | [👉 点击进入 TEST_LEARNING 目录](./TEST_LEARNING) |
+| **01** | **Ros2  端侧部署与视觉跟踪** | [👉 点击进入 TEST_LEARNING 目录](./TEST_LEARNING) |
 | **02** | **K230  边缘端视觉场景落地** | [👉 点击进入 Visual_K230_Drive 目录](./Visual_K230_Drive) |
 | **03** | **UAV   场景识别与算法进阶** | [👉 点击进入 UAV_Action_Prediction_Trial 目录](./UAV_Action_Prediction_Trial) |
 | **04** | **RTK   高精度定位配置** | [👉 点击进入 UM982_RTK 目录](./UM982_RTK) |
