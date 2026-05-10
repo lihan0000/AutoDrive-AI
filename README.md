@@ -4,6 +4,8 @@
 
 > **项目概述**：本项目记录了从端侧视觉部署到多模态异构融合的完整演进过程。系统涵盖了从顶层 Transformer 动作预测、ROS2 导航，到底层 IMU 误差滤波、非标 CAN 协议解析，以及高速物理链路（DC均衡/带宽优化）的全栈工程实践。
 
+> ⚠️ **温馨提示 (关于演示视频)**：由于 GitHub 对大体积视频文件的在线预览限制，若无法直接播放，**请点击下方对应的视频目录，自行下载 `.mp4` 原始文件进行观看。**
+
 ---
 
 ## 🛠️ 项目演进与核心模块索引
@@ -14,16 +16,16 @@
 
 ### 02. K230 边缘端视觉与 CANMV 控制 (场景落地)
 * **核心功能**：利用 K230 芯片配合 CANMV，在特定工业场景下实现矿洞安全检测，以及渔场作业船只的视觉直线自动巡航。
-* 🎥 **实况视频**：
-  * [📥 点击下载：矿洞安全检测实测视频](./Visual_K230_Drive/Person/Person/PersonA_mp4.mp4?raw=true)
-  * [📥 点击下载：渔场作业船只自动巡航视频](./Visual_K230_Drive/Vessel/Vessel/VesselsA_mp4.mp4?raw=true)
+* 🎥 **实况视频 (请进入目录下载)**：
+  * [👉 跳转目录：矿洞安全检测实测视频](./Visual_K230_Drive/Person/Person)
+  * [👉 跳转目录：渔场作业船只自动巡航视频](./Visual_K230_Drive/Vessel/Vessel)
 * 📁 **代码目录**：[👉 点击跳转：Visual_K230_Drive](./Visual_K230_Drive)
 
 ### 03. 无人机场景识别与 Transformer 预测 (算法进阶)
 * **核心功能**：脱离开源框架，手写 ENET、CNNs 及 Transformer 编码层代码。成功应用于无人机飞行过程中的实时场景识别与动作意图预测。
-* 🎥 **实况视频**：
-  * [📥 点击下载：无人机实机飞行视角](./UAV_Action_Prediction_Trial/AB_mp4.mp4?raw=true)
-  * [📥 点击下载：底层场景识别与预测视角](./UAV_Action_Prediction_Trial/CD_mp4.mp4?raw=true)
+* 🎥 **实况视频 (请进入目录下载)**：
+  * [👉 跳转目录：无人机实机飞行视角](./UAV_Action_Prediction_Trial)
+  * [👉 跳转目录：底层场景识别与预测视角](./UAV_Action_Prediction_Trial)
 * 📁 **模型结构**：[👉 点击跳转：UAV_Action_Prediction_Trial/AutoDrive](./UAV_Action_Prediction_Trial/AutoDrive)
 
 ### 04. UM982 RTK 高精度定位配置 (绝对观测引入)
@@ -45,8 +47,8 @@
 ### 08. 双目仿生高速避障系统 (终极融合与系统级降级)
 * **核心功能**：利用双摄架构，结合 YOLO 26 模型，提取压线、膨胀、视差、方差等仿生直觉信息。完美实现低成本、低延迟的高速避障、绕行与紧急刹停。
 * **物理层突破**：**成功解决高速视频流传输中的 DC 均衡编码断链问题，以及恶劣环境噪点导致的带宽激增溢出问题，保障物理链路绝对稳定。**
-* 🎥 **实况视频**：
-  * [📥 点击下载：实机避障、绕行与紧急刹停测试](./Orin_Nano_PX6C/Obstacle_Avoidance_Detour_TEST/LR_mp4.mp4?raw=true)
+* 🎥 **实况视频 (请进入目录下载)**：
+  * [👉 跳转目录：实机避障、绕行与紧急刹停测试](./Orin_Nano_PX6C/Obstacle_Avoidance_Detour_TEST)
 
 ---
-*注：本项目重点展示从算法推理到底层硬件调度的全栈工程落地能力。点击上述视频链接可直接下载原文件查看实测效果。*
+*注：本项目重点展示从算法推理到底层硬件调度的全栈工程落地能力。*
