@@ -10,11 +10,11 @@
 ## 📖 技术架构详述
 
 <div align="center">
-  <img src="./media/E1.png" width="100%" alt="第1页">
-  <img src="./media/E2.png" width="100%" alt="第2页">
-  <img src="./media/E3.png" width="100%" alt="第3页">
-  <img src="./media/E4.png" width="100%" alt="第4页">
-  <img src="./media/E5.png" width="100%" alt="第5页">
+  <img src="./PNG/E1.png" width="100%" alt="第1页">
+  <img src="./PNG/E2.png" width="100%" alt="第2页">
+  <img src="./PNG/E3.png" width="100%" alt="第3页">
+  <img src="./PNG/E4.png" width="100%" alt="第4页">
+  <img src="./PNG/E5.png" width="100%" alt="第5页">
 </div>
 
 ---
